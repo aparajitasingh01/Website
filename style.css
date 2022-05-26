@@ -1,0 +1,21 @@
+h1 {
+    color:brown;
+}
+.header {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.grid {
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align: center;
+}
+.first {
+    background-color: aqua;
+    justify-content: space-evenly;
+}
